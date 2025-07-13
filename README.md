@@ -1,6 +1,6 @@
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/John Martin Roque) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/john-martin-roque-884b7436a) 
 
 ## 👨‍💻 About Me:
 Aspiring Web and Software Developer with a strong passion for building responsive, user-friendly applications and solving real-world problems through code.
