@@ -10,7 +10,7 @@ Aspiring Web and Software Developer with a strong passion for building responsiv
 
 ## 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=johnmartinroque&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=johnmartinroque&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=johnmartinroque&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🟢 Deployed Projects
 ### ​📝 [TaskHive](https://taskhive-8b031.web.app)
