@@ -13,14 +13,30 @@ Aspiring Web and Software Developer with a strong passion for building responsiv
 
 
 ##Projects I'm currently working on:
+- 🔭 I’m currently working on [Letterboxd Clone](https://github.com/johnmartinroque/LetterboxdClone)
+# 🎬 Letterboxd Clone
+A web application inspired by [Letterboxd Clone](https://github.com/johnmartinroque/LetterboxdClone), where users can log, rate, and review movies. This project is built to strengthen skills in front-end development, state management, and backend integration.
 
+## 🚀 Features
+- 🔍 Browse and search for movies
+- 📝 Log and review movies
+- ⭐ Rate and favorite films
+- 🧾 View other users' movie activity
+- 👤 User authentication (sign up/sign in)
+- 📱 Responsive UI design
+
+## 🛠 Tech Stack
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![React Bootstrap](https://img.shields.io/badge/react--bootstrap-%238011DA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 
 ##Projects I've worked on:
 
 
 
-
-[![johnmartinroque's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnmartinroque)](https://github.com/johnmartinroque/github-readme-stats)
 
 
