@@ -13,9 +13,9 @@ Aspiring Web and Software Developer with a strong passion for building responsiv
 
 
 ##Projects I'm currently working on:
-- 🔭 I’m currently working on [Letterboxd Clone](https://github.com/johnmartinroque/LetterboxdClone)
-# 🎬 Letterboxd Clone
-A web application inspired by [Letterboxd Clone](https://github.com/johnmartinroque/LetterboxdClone), where users can log, rate, and review movies. This project is built to strengthen skills in front-end development, state management, and backend integration.
+
+# 🎬 [Letterboxd Clone](https://github.com/johnmartinroque/LetterboxdClone)
+My solo project inspired by [Letterboxd](https://letterboxd.com), where users can log, rate, and review movies. This project is built to strengthen skills in front-end development, state management, UI/UX design and backend integration.
 
 ## 🚀 Features
 - 🔍 Browse and search for movies
