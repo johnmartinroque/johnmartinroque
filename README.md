@@ -1,6 +1,6 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/john-martin-roque-884b7436a)
-[![Portfolio](https://your-portfolio-link.com](https://portfolio-one-pink-ib53ld797c.vercel.app)) 
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portfolio-one-pink-ib53ld797c.vercel.app/)
 
 ## 👨‍💻 About Me:
 I am a passionate full stack web developer dedicated to building functional, responsive, and user-centric applications. I aim to create efficient and effective solutions that connect front-end design with back-end functionality to solve real-world problems through code.
