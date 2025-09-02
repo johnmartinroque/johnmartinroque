@@ -154,3 +154,7 @@ My solo project inspired by [Letterboxd](https://letterboxd.com), where users ca
 ### [LeRecipe](https://github.com/johnmartinroque/LeRecipe)  
 ### [Kapeterium](https://github.com/johnmartinroque/LeRecipe)  
 
+
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?johnmartinroque=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
