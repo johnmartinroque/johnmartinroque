@@ -68,8 +68,7 @@ My main role was doing React and Firebase integration, implementing core functio
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 
-## 🟢 Deployed Projects
-### ​📝 [Guesserroom](https://guessroom.vercel.app)
+### ​📝 [Guessroom](https://guessroom.vercel.app)
 A real-time multiplayer music guessing game built with Node.js, Express, Socket.IO, and React. Players can join lobbies with friends, listen to songs, and compete to guess the artist correctly.
 
 #### 🚀 Features
