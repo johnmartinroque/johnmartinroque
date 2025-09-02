@@ -157,4 +157,3 @@ My solo project inspired by [Letterboxd](https://letterboxd.com), where users ca
 
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=johnmartinroque)](https://github.com/ryo-ma/github-profile-trophy)
