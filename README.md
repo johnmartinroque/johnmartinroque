@@ -57,7 +57,7 @@ A real-time multiplayer music guessing game built with Node.js, Express, Socket.
 
 #### 🚀 Features
 🎮 Multi-lobby support – Create or join separate game rooms.  
-⚡ Real-time gameplay – Scores, user actions, and skip votes update instantly.  
+⚡ Real-time gameplay – Chat, scores, user actions, and skip votes update instantly.  
 🏆 Score tracking – Points for every correct guess.  
 🎵 Round-based music – Songs are randomly selected per round.  
 ⏭️ Skip system– Vote to skip songs.  
@@ -77,10 +77,6 @@ A real-time multiplayer music guessing game built with Node.js, Express, Socket.
 
 ### ​📝 [TaskHive](https://taskhive-8b031.web.app)
 TaskHive is a collaborative to-do list app built for groups—whether families, friends, classmates, or coworkers. Tasks can be created, assigned, marked complete, and discussed in real time.
-**Role:**  
-I handled React and Firebase integration, implementing core functionality and backend connectivity, while primarily using Bootstrap for styling. My duo took care of most of the front-end design.
-
-My main role was doing React and Firebase integration, implementing core functionality and backend connectivity, while primarily using Bootstrap for styling, as my teammate handled most of the front-end design.
 
 #### 🚀 Features
 - 👤 User authentication (sign up / log in / log out)
