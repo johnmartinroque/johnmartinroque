@@ -12,7 +12,7 @@ Beyond technical expertise, I value personal growth and collaboration. I bring:
 - 🧠 **Problem-Solving** – breaking down challenges into practical solutions.  
 - 📅 **Time & Project Management** – meeting deadlines and keeping projects organized.  
 - 🔄 **Adaptability** – continuously learning and embracing new tools and technologies.  
-- 🎨 **Creativity & User Empathy** – designing apps with the end-user’s experience in mind.  
+- 🎨 **Creativity** – designing apps with the end-user’s experience in mind.  
 - 💡 **Initiative & Ownership** – taking responsibility and driving features to completion.  
 
 I’m always eager to collaborate, learn, and contribute to projects that make an impact. 🚀
