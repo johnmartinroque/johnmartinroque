@@ -12,8 +12,6 @@ Beyond technical expertise, I value personal growth and collaboration. I bring:
 - 🧠 **Problem-Solving** – breaking down challenges into practical solutions.  
 - 📅 **Time & Project Management** – meeting deadlines and keeping projects organized.  
 - 🔄 **Adaptability** – continuously learning and embracing new tools and technologies.  
-- 🎨 **Creativity** – designing apps with the end-user’s experience in mind.  
-- 💡 **Initiative & Ownership** – taking responsibility and driving features to completion.  
 
 I’m always eager to collaborate, learn, and contribute to projects that make an impact. 🚀
 
@@ -96,6 +94,7 @@ TaskHive is a collaborative to-do list app built for groups—whether families, 
 ###  [Dishcovery]([https://github.com/johnmartinroque/LetterboxdClone](https://github.com/Ikawari-s/Dishcovery))
 
 ### 🚀 Features
+- 🌍 Geolocation-based search
 - 🔍 Browse and search for restaurants
 - 📝 Log and review 
 - ⭐ Rate and favorite restaurants
