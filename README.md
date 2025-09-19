@@ -91,7 +91,7 @@ TaskHive is a collaborative to-do list app built for groups—whether families, 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-###  [Dishcovery]([https://github.com/johnmartinroque/LetterboxdClone](https://github.com/Ikawari-s/Dishcovery))
+###  [Dishcovery](https://dishcovery-theta.vercel.app)
 
 ### 🚀 Features
 - 🌍 Geolocation-based search
