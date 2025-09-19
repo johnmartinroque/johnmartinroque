@@ -49,7 +49,8 @@ I’m always eager to collaborate, learn, and contribute to projects that make a
 
 
 ## 🟢 Deployed Projects
-### ​📝 [Guessroom](https://guessroom.vercel.app)
+## ​📝 [Guessroom](https://guessroom.vercel.app)
+### [Demo – Click here to try](https://guessroom.vercel.app)
 A real-time multiplayer music guessing game built with Node.js, Express, Socket.IO, and React. Players can join lobbies with friends, listen to songs, and compete to guess the artist correctly.
 
 #### 🚀 Features
@@ -71,7 +72,8 @@ A real-time multiplayer music guessing game built with Node.js, Express, Socket.
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-### ​📝 [TaskHive](https://taskhive-8b031.web.app)
+## ​📝 [TaskHive](https://taskhive-8b031.web.app)
+### [Demo – Click here to try](https://taskhive-8b031.web.app)
 TaskHive is a collaborative to-do list app built for groups—whether families, friends, classmates, or coworkers. Tasks can be created, assigned, marked complete, and discussed in real time.
 
 #### 🚀 Features
@@ -91,8 +93,8 @@ TaskHive is a collaborative to-do list app built for groups—whether families, 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-###  [Dishcovery](https://dishcovery-theta.vercel.app)
-
+##  [Dishcovery](https://dishcovery-theta.vercel.app)
+### [Demo – Click here to try](https://dishcovery-theta.vercel.app)
 ### 🚀 Features
 - 🌍 Geolocation-based search
 - 🔍 Browse and search for restaurants
