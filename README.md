@@ -49,7 +49,7 @@ I’m always eager to collaborate, learn, and contribute to projects that make a
 
 
 ## 🟢 Deployed Projects
-## ​📝 [Guessroom](https://guessroom.vercel.app)
+## ​🎵 [Guessroom](https://guessroom.vercel.app)
 ### [Demo – Click here to try](https://guessroom.vercel.app)
 A real-time multiplayer music guessing game built with Node.js, Express, Socket.IO, and React. Players can join lobbies with friends, listen to songs, and compete to guess the artist correctly.
 
