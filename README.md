@@ -4,6 +4,10 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/johnmartin.roque) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:johnmartinroque@gmail.com) 
 
+## 📄 Resume / CV  
+[![View CV (PDF)](https://img.shields.io/badge/View_CV-PDF-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1dON20585DhgbwlXbuts9voNjczBnqVgz/view?usp=sharing)
+
+
 ## 👨‍💻 About Me:
 I am a passionate full stack web developer dedicated to building functional, responsive, and user-centric applications. I aim to create efficient and effective solutions that connect front-end design with back-end functionality to solve real-world problems through code.
 
