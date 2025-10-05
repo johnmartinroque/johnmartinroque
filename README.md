@@ -3,9 +3,7 @@
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portfolio-one-pink-ib53ld797c.vercel.app/)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/johnmartin.roque) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:johnmartinroque@gmail.com) 
-
-## 📄 Resume / CV  
-[![View CV (PDF)](https://img.shields.io/badge/View_CV-PDF-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1dON20585DhgbwlXbuts9voNjczBnqVgz/view?usp=sharing)
+[![CV (PDF)](https://img.shields.io/badge/View_CV-PDF-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1dON20585DhgbwlXbuts9voNjczBnqVgz/view?usp=sharing)
 
 
 ## 👨‍💻 About Me:
