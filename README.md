@@ -75,6 +75,27 @@ A real-time multiplayer music guessing game built with Node.js, Express, Socket.
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
+
+## ​🎵 [QuizNest](https://emerg-tech.vercel.app)
+### [Demo – Click here to try](https://emerg-tech.vercel.app)
+An AI-powered quiz generation and learning platform where users can instantly create topic-based quizzes using Gemini AI, share them with others, and test their knowledge interactively.
+
+#### 🚀 Features
+🤖 AI-generated quizzes – Automatically creates questions and choices using Google Gemini.
+🧩 Dynamic topics – Generate quizzes on any subject (e.g. History, JavaScript, Space).
+💾 Cloud storage – Saves quizzes in Firebase Firestore for others to explore.
+🔍 Searchable quiz list – Easily find quizzes by topic.
+📊 Instant feedback – Shows correct and incorrect answers after submission.
+🔁 Replay option – Prompt new quizzes anytime for continued learning.
+
+#### 🛠 Tech Stack
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
 ## ​📝 [TaskHive](https://taskhive-8b031.web.app)
 ### [Demo – Click here to try](https://taskhive-8b031.web.app)
 TaskHive is a collaborative to-do list app built for groups—whether families, friends, classmates, or coworkers. Tasks can be created, assigned, marked complete, and discussed in real time.
