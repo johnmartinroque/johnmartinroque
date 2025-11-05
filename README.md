@@ -146,9 +146,7 @@ TaskHive is a collaborative to-do list app built for groups—whether families, 
 
 ## 📂 Projects I've Worked On
 ### [Shareable](https://github.com/Ikawari-s/Shareable) 
-### [Watchlog](https://github.com/johnmartinroque/LetterboxdClone) 
 ### [LeRecipe](https://github.com/johnmartinroque/LeRecipe)  
-### [Kapeterium](https://github.com/JermainePasion/kapeterium)  
 
 
 
