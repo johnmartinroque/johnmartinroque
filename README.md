@@ -7,7 +7,7 @@
 
 
 ## 👨‍💻 About Me:
-I am a passionate full stack web developer dedicated to building functional, responsive, and user-centric applications. I aim to create efficient and effective solutions that connect front-end design with back-end functionality to solve real-world problems through code.
+I do automations and full-stack web development. :)
 
 Beyond technical expertise, I value personal growth and collaboration. I bring:  
 - 👥 **Teamwork & Communication** – experienced in working with teammates, sharing ideas, and giving/receiving feedback.  
