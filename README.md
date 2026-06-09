@@ -17,6 +17,13 @@ Beyond technical expertise, I value personal growth and collaboration. I bring:
 
 I’m always eager to collaborate, learn, and contribute to projects that make an impact. 🚀
 
+## ⚡ Featured Project: n8n Workflows
+
+A collection of automation workflows built with n8n, showcasing process automation, API integrations, and workflow orchestration.
+
+🔗 **Repository:** https://github.com/johnmartinroque/n8nWorkflows
+
+
 
 ## 💻 Tech Stack:
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
