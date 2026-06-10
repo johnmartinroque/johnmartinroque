@@ -14,7 +14,6 @@ Beyond technical expertise, I value personal growth and collaboration. I bring:
 - 📅 **Time & Project Management** – meeting deadlines and keeping projects organized.  
 - 🔄 **Adaptability** – continuously learning and embracing new tools and technologies.  
 
-I’m always eager to collaborate, learn, and contribute to projects that make an impact. 🚀
 
 ## ⚡ Featured Project: n8n Workflows
 
