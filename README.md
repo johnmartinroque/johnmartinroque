@@ -19,8 +19,7 @@ I’m always eager to collaborate, learn, and contribute to projects that make a
 
 ## ⚡ Featured Project: n8n Workflows
 
-A collection of automation workflows built with n8n, showcasing process automation, API integrations, and workflow orchestration.
-
+A collection of automation workflows I built with n8n.
 🔗 **Repository:** https://github.com/johnmartinroque/n8nWorkflows
 
 
