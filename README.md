@@ -21,6 +21,22 @@ A collection of automation workflows I built with n8n.
 
 🔗 **Repository:** https://github.com/johnmartinroque/n8nWorkflows
 
+## 🤖 Automation & Workflow Tools
+
+### Automation Platforms
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Zapier](https://img.shields.io/badge/Zapier-FF4F00?style=for-the-badge&logo=zapier&logoColor=white)
+![Microsoft Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=microsoftpowerautomate&logoColor=white)
+
+### Tools & Integrations
+![Monday.com](https://img.shields.io/badge/Monday.com-FF3D57?style=for-the-badge&logo=mondaydotcom&logoColor=white)
+![PandaDoc](https://img.shields.io/badge/PandaDoc-008B5E?style=for-the-badge&logo=pandadoc&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
+![Webhooks](https://img.shields.io/badge/Webhooks-4A90E2?style=for-the-badge&logo=webhook&logoColor=white)
+![HTTP](https://img.shields.io/badge/HTTP-00599C?style=for-the-badge&logo=internetexplorer&logoColor=white)
+![Mailchimp](https://img.shields.io/badge/Mailchimp-FFE01B?style=for-the-badge&logo=mailchimp&logoColor=black)
+![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
+
 
 
 ## 💻 Tech Stack:
