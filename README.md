@@ -6,7 +6,7 @@
 
 
 ## 👨‍💻 About Me:
-I do automations and full-stack web development. :)
+I do AI Automations, Full-Stack Web Development, Systems Integration and Workflow Automation. :)
 
 Beyond technical expertise, I value personal growth and collaboration. I bring:  
 - 👥 **Teamwork & Communication** – experienced in working with teammates, sharing ideas, and giving/receiving feedback.  
