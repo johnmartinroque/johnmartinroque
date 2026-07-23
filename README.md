@@ -77,7 +77,29 @@ A collection of automation workflows I built with n8n.
 ![](https://nirzak-streak-stats.vercel.app/?user=johnmartinroque&theme=dark&hide_border=false)<br/>
 
 
-## 🟢 Deployed Projects
+## 🟢 Projects
+
+
+## 📊 [Insight Forge](https://github.com/johnmartinroque/InsightForge)
+An AI-powered data analysis assistant that lets users ask natural language questions about sales and inventory data. Combines a React frontend, an n8n AI workflow, Google Gemini, and Google Sheets to deliver business insights with automatically generated charts.
+
+#### 🚀 Features
+💬 Natural language chat interface for sales data queries
+📈 Automatic chart generation (Bar, Line, Pie) via Recharts
+🧠 AI-powered analysis using Google Gemini (LangChain Agent)
+📊 Reads live data directly from Google Sheets
+🗓️ Monthly sales analysis (January – July)
+💾 Conversation memory using email-based sessions
+🔗 Webhook integration between React and n8n
+
+#### 🛠 Tech Stack
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Webhooks](https://img.shields.io/badge/Webhooks-4A90E2?style=for-the-badge&logo=webhook&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ## ​🎵 [Guessroom](https://guessroom.vercel.app)
 ### [Demo – Click here to try](https://guessroom.vercel.app)
 A real-time multiplayer music guessing game built with Node.js, Express, Socket.IO, and React. Players can join lobbies with friends, listen to songs, and compete to guess the artist correctly.
