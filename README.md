@@ -1,8 +1,9 @@
 ## 🌐 Socials:
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-959t-git-main-johnmartinroques-projects.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/john-martin-roque-884b7436a)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/johnmartin.roque) 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:johnmartinroque@gmail.com) 
-[![CV (PDF)](https://img.shields.io/badge/View_CV-PDF-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1O_aRXq7vhxKdKazZvOEPismRofUmrTfK/view?usp=sharing)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/johnmartin.roque)
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:johnmartinroque@gmail.com)
+[![CV (PDF)](https://img.shields.io/badge/View_CV-PDF-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1xy-0cfz8UdmWQtNzksKWOHKZwJaiQdIw/view?usp=sharing)
 
 
 ## 👨‍💻 About Me:
