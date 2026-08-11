@@ -146,7 +146,6 @@ An AI-powered quiz generation and learning platform where users can instantly cr
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ##  [Dishcovery](https://dishcovery-theta.vercel.app)
-### [Demo – Click here to try](https://dishcovery-theta.vercel.app)
 ### 🚀 Features
 - 🌍 Geolocation-based search
 - 🔍 Browse and search for restaurants
