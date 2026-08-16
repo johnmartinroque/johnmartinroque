@@ -101,6 +101,30 @@ An AI-powered data analysis assistant that lets users ask natural language quest
 ![Webhooks](https://img.shields.io/badge/Webhooks-4A90E2?style=for-the-badge&logo=webhook&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+
+## 🫀 [Thalassemia Status Predictor](https://github.com/johnmartinroque/thalassemia_prediction)
+### [Demo – Click here to try](https://thalassemiaprediction-kmfdoggb9v3rymi8cptukn.streamlit.app)
+A machine learning app that predicts Thalassemia Status from patient clinical data (the classic UCI Heart Disease dataset). Trains and compares multiple classifiers, generates exploratory data visualizations, and serves predictions through an interactive Streamlit web app.
+
+#### 🚀 Features
+🔬 Multi-model training – Logistic Regression, Random Forest, SVM, and KNN, trained and compared automatically
+📊 Exploratory visualizations – 7 charts covering class distribution, correlations, and feature relationships
+🎯 Accuracy reporting – per-model accuracy and a detailed classification report for the best model
+💻 Command-line predictor – type in patient values and get predictions from every model
+🌐 Interactive web app – form-based predictor plus a data insights dashboard, built with Streamlit
+
+#### 🛠 Tech Stack
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Streamlit](https://img.shields.io/badge/streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+
+
 ## ​🎵 [Guessroom](https://guessroom.vercel.app)
 ### [Demo – Click here to try](https://guessroom.vercel.app)
 A real-time multiplayer music guessing game built with Node.js, Express, Socket.IO, and React. Players can join lobbies with friends, listen to songs, and compete to guess the artist correctly.
