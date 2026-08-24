@@ -130,7 +130,29 @@ A machine learning app that predicts Thalassemia Status from patient clinical da
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
+## 🧠 [TraceNode](https://github.com/johnmartinroque/TraceNode)
+TraceNode is a web-based workflow error management system that helps users track failed executions from active n8n workflows in real time. The platform allows teams to monitor unresolved issues, update error statuses, review activity logs, and maintain organized workflow operations through a centralized dashboard. This project supports efficient workflow automation management by improving visibility, accountability, and issue resolution for automated systems and integrations.
 
+#### 🚀 Features
+⚠️ Workflow Error Tracking – Monitor failed or problematic n8n workflow executions.
+📂 Error Management – Organize and manage resolved and unresolved workflow errors.
+📝 Activity Logs – Record status changes, updates, and actions performed on errors.
+🔄 Real-Time Updates – Sync workflow error data instantly using Supabase.
+📊 Dashboard Overview – View summaries of workflow health and error statistics.
+👥 User Authentication – Secure login and access management with Supabase Auth.
+🔍 Search & Filtering – Quickly find workflow errors by status, workflow name, or keywords.
+🗃️ Error History – Keep a historical record of workflow issues and resolutions.
+📱 Responsive Interface – Optimized for desktop and mobile management.
+☁️ Supabase Database Integration – Store workflow errors, activities, and user data securely.
+
+#### 🛠 Tech Stack
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ## ​🎵 [Guessroom](https://guessroom.vercel.app)
 ### [Demo – Click here to try](https://guessroom.vercel.app)
