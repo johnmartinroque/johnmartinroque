@@ -92,13 +92,13 @@ A collection of automation workflows I built with n8n.
 An AI-powered data analysis assistant that lets users ask natural language questions about sales and inventory data. Combines a React frontend, an n8n AI workflow, Google Gemini, and Google Sheets to deliver business insights with automatically generated charts.
 
 #### 🚀 Features
-💬 Natural language chat interface for sales data queries
-📈 Automatic chart generation (Bar, Line, Pie) via Recharts
-🧠 AI-powered analysis using Google Gemini (LangChain Agent)
-📊 Reads live data directly from Google Sheets
-🗓️ Monthly sales analysis (January – July)
-💾 Conversation memory using email-based sessions
-🔗 Webhook integration between React and n8n
+- 💬 Natural language chat interface for sales data queries
+- 📈 Automatic chart generation (Bar, Line, Pie) via Recharts
+- 🧠 AI-powered analysis using Google Gemini (LangChain Agent)
+- 📊 Reads live data directly from Google Sheets
+- 🗓️ Monthly sales analysis (January – July)
+- 💾 Conversation memory using email-based sessions
+- 🔗 Webhook integration between React and n8n
 
 #### 🛠 Tech Stack
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -115,11 +115,11 @@ An AI-powered data analysis assistant that lets users ask natural language quest
 A machine learning app that predicts Thalassemia Status from patient clinical data (the classic UCI Heart Disease dataset). Trains and compares multiple classifiers, generates exploratory data visualizations, and serves predictions through an interactive Streamlit web app.
 
 #### 🚀 Features
-🔬 Multi-model training – Logistic Regression, Random Forest, SVM, and KNN, trained and compared automatically
-📊 Exploratory visualizations – 7 charts covering class distribution, correlations, and feature relationships
-🎯 Accuracy reporting – per-model accuracy and a detailed classification report for the best model
-💻 Command-line predictor – type in patient values and get predictions from every model
-🌐 Interactive web app – form-based predictor plus a data insights dashboard, built with Streamlit
+- 🔬 Multi-model training – Logistic Regression, Random Forest, SVM, and KNN, trained and compared automatically
+- 📊 Exploratory visualizations – 7 charts covering class distribution, correlations, and feature relationships
+- 🎯 Accuracy reporting – per-model accuracy and a detailed classification report for the best model
+- 💻 Command-line predictor – type in patient values and get predictions from every model
+- 🌐 Interactive web app – form-based predictor plus a data insights dashboard, built with Streamlit
 
 #### 🛠 Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -134,16 +134,16 @@ A machine learning app that predicts Thalassemia Status from patient clinical da
 TraceNode is a web-based workflow error management system that helps users track failed executions from active n8n workflows in real time. The platform allows teams to monitor unresolved issues, update error statuses, review activity logs, and maintain organized workflow operations through a centralized dashboard. This project supports efficient workflow automation management by improving visibility, accountability, and issue resolution for automated systems and integrations.
 
 #### 🚀 Features
-⚠️ Workflow Error Tracking – Monitor failed or problematic n8n workflow executions.
-📂 Error Management – Organize and manage resolved and unresolved workflow errors.
-📝 Activity Logs – Record status changes, updates, and actions performed on errors.
-🔄 Real-Time Updates – Sync workflow error data instantly using Supabase.
-📊 Dashboard Overview – View summaries of workflow health and error statistics.
-👥 User Authentication – Secure login and access management with Supabase Auth.
-🔍 Search & Filtering – Quickly find workflow errors by status, workflow name, or keywords.
-🗃️ Error History – Keep a historical record of workflow issues and resolutions.
-📱 Responsive Interface – Optimized for desktop and mobile management.
-☁️ Supabase Database Integration – Store workflow errors, activities, and user data securely.
+- ⚠️ Workflow Error Tracking – Monitor failed or problematic n8n workflow executions.
+- 📂 Error Management – Organize and manage resolved and unresolved workflow errors.
+- 📝 Activity Logs – Record status changes, updates, and actions performed on errors.
+- 🔄 Real-Time Updates – Sync workflow error data instantly using Supabase.
+- 📊 Dashboard Overview – View summaries of workflow health and error statistics.
+- 👥 User Authentication – Secure login and access management with Supabase Auth.
+- 🔍 Search & Filtering – Quickly find workflow errors by status, workflow name, or keywords.
+- 🗃️ Error History – Keep a historical record of workflow issues and resolutions.
+- 📱 Responsive Interface – Optimized for desktop and mobile management.
+- ☁️ Supabase Database Integration – Store workflow errors, activities, and user data securely.
 
 #### 🛠 Tech Stack
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -159,12 +159,12 @@ TraceNode is a web-based workflow error management system that helps users track
 A real-time multiplayer music guessing game built with Node.js, Express, Socket.IO, and React. Players can join lobbies with friends, listen to songs, and compete to guess the artist correctly.
 
 #### 🚀 Features
-🎮 Multi-lobby support – Create or join separate game rooms.  
-⚡ Real-time gameplay – Chat, scores, user actions, and skip votes update instantly.  
-🏆 Score tracking – Points for every correct guess.  
-🎵 Round-based music – Songs are randomly selected per round.  
-⏭️ Skip system– Vote to skip songs.  
-📊 Game summary – Top 3 players displayed at the end.  
+- 🎮 Multi-lobby support – Create or join separate game rooms.  
+- ⚡ Real-time gameplay – Chat, scores, user actions, and skip votes update instantly.  
+- 🏆 Score tracking – Points for every correct guess.  
+- 🎵 Round-based music – Songs are randomly selected per round.  
+- ⏭️ Skip system– Vote to skip songs.  
+- 📊 Game summary – Top 3 players displayed at the end.  
 
 #### 🛠 Tech Stack
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -183,12 +183,12 @@ A real-time multiplayer music guessing game built with Node.js, Express, Socket.
 An AI-powered quiz generation and learning platform where users can instantly create topic-based quizzes using Gemini AI, share them with others, and test their knowledge interactively.
 
 #### 🚀 Features
-🤖 AI-generated quizzes – Automatically creates questions and choices using Google Gemini.
-🧩 Dynamic topics – Generate quizzes on any subject (e.g. History, JavaScript, Space).
-💾 Cloud storage – Saves quizzes in Firebase Firestore for others to explore.
-🔍 Searchable quiz list – Easily find quizzes by topic.
-📊 Instant feedback – Shows correct and incorrect answers after submission.
-🔁 Replay option – Prompt new quizzes anytime for continued learning.
+- 🤖 AI-generated quizzes – Automatically creates questions and choices using Google Gemini.
+- 🧩 Dynamic topics – Generate quizzes on any subject (e.g. History, JavaScript, Space).
+- 💾 Cloud storage – Saves quizzes in Firebase Firestore for others to explore.
+- 🔍 Searchable quiz list – Easily find quizzes by topic.
+- 📊 Instant feedback – Shows correct and incorrect answers after submission.
+- 🔁 Replay option – Prompt new quizzes anytime for continued learning.
 
 #### 🛠 Tech Stack
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
