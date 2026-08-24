@@ -15,6 +15,13 @@ Beyond technical expertise, I value personal growth and collaboration. I bring:
 - 📅 **Time & Project Management** – meeting deadlines and keeping projects organized.  
 - 🔄 **Adaptability** – continuously learning and embracing new tools and technologies.  
 
+## 👨‍💻 My Portfolio
+
+Check out my full portfolio website for a complete overview of my projects, skills, and experience:
+
+### 👉 [**Visit My Portfolio Website**](https://portfolio-959t-git-main-johnmartinroques-projects.vercel.app) 👈
+
+
 
 ## ⚡ Featured Project: n8n Workflows
 
