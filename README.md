@@ -19,7 +19,7 @@ Beyond technical expertise, I value personal growth and collaboration. I bring:
 
 Check out my full portfolio website for a complete overview of my projects, skills, and experience:
 
-### 👉 [**Visit My Portfolio Website**](https://portfolio-959t-git-main-johnmartinroques-projects.vercel.app](https://portfolio-959t.vercel.app)) 👈
+### 👉 [**Visit My Portfolio Website**]([https://portfolio-959t.vercel.app](https://portfolio-959t.vercel.app)) 👈
 
 
 
